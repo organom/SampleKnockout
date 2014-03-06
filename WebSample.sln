@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSample", "WebSample\WebSample.csproj", "{3B74AD2C-3C81-491E-996A-8B780FAD4B26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSample.ServiceLayer", "WebSample.ServiceLayer\WebSample.ServiceLayer.csproj", "{A505FF18-9614-4093-828B-856D9BD4F107}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://organom.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WebSample.ServiceLayer\\WebSample.ServiceLayer.csproj
+		SccProjectName1 = WebSample.ServiceLayer
+		SccLocalPath1 = WebSample.ServiceLayer
+		SccProjectUniqueName2 = WebSample\\WebSample.csproj
+		SccProjectName2 = WebSample
+		SccLocalPath2 = WebSample
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B74AD2C-3C81-491E-996A-8B780FAD4B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B74AD2C-3C81-491E-996A-8B780FAD4B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B74AD2C-3C81-491E-996A-8B780FAD4B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B74AD2C-3C81-491E-996A-8B780FAD4B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A505FF18-9614-4093-828B-856D9BD4F107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A505FF18-9614-4093-828B-856D9BD4F107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A505FF18-9614-4093-828B-856D9BD4F107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A505FF18-9614-4093-828B-856D9BD4F107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
